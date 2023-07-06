@@ -20,6 +20,10 @@ h1 {
   display: block;
 }
 
+a i:hover{
+  colour: green
+}
+
 p {
   display: block;
   margin-block-start: 1em;
